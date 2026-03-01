@@ -1,7 +1,7 @@
 # ansible-role-terraform
 
-[![molecule](https://github.com/diodonfrost/ansible-role-terraform/workflows/molecule/badge.svg)](https://github.com/diodonfrost/ansible-role-terraform/actions)
-[![Ansible Galaxy](https://img.shields.io/badge/galaxy-diodonfrost.terraform-660198.svg)](https://galaxy.ansible.com/diodonfrost/terraform)
+[![molecule](https://github.com/P3X-118/ansible-role-terraform/workflows/molecule/badge.svg)](https://github.com/P3X-118/terraform-ar/actions)
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-p3x-118.terraform-660198.svg)](https://galaxy.ansible.com/p3x-118/terraform)
 
 This role provide a compliance for install terraform on your target host.
 
