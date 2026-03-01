@@ -11,7 +11,7 @@ jobs:
     name: ${{ matrix.image }} terraform ${{ matrix.terraform_version }}
     runs-on: ubuntu-22.04
     env:
-      docker_namepsace: ghcr.io/diodonfrost
+      docker_namepsace: ghcr.io/p3x-118
     strategy:
       fail-fast: false
       matrix:
